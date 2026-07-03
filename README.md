@@ -1,18 +1,40 @@
-## Getting Started
+# Java Programs
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A collection of 10 basic Java programs for beginners.
 
-## Folder Structure
+## Programs Included
 
-The workspace contains two folders by default, where:
+1. Hello World
+2. Calculator
+3. Prime Number Checker
+4. Fibonacci Series
+5. Factorial
+6. Palindrome Number
+7. Armstrong Number
+8. Star Pattern
+9. Largest Element in Array
+10. Reverse String
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Visual Studio Code
+- Git
+- GitHub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## How to Run
 
-## Dependency Management
+1. Open the project in Visual Studio Code.
+2. Open any Java file from the `src` folder.
+3. Click **Run** or execute:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+javac FileName.java
+java FileName
+```
+
+## Author
+
+**Kartik Raj**
+
+Learning Java, Git, and GitHub while building programming projects.
